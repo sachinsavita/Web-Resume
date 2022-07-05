@@ -1,0 +1,28 @@
+body{
+ 
+  padding: 20px;
+}
+.left{
+  background-color: #192a56;
+  color: azure;
+  height: 1300px;
+}
+.quotes{
+  font-size: 12px;
+  margin-left: 160px;
+}
+.right{
+  background-color:ghostwhite;
+  color: #2d3436;
+  height: 1300px;
+}
+.leftHeadings{
+  background-color: #30336b;
+  padding: 5px;
+}
+.leftInfo{
+  font-size: 12px;
+}
+.rightHeadings{
+  color: #30336b ;
+}
